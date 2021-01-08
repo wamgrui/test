@@ -2,7 +2,7 @@
 namespace test;
 class Test{
     public function test(){
-        echo '123';
+        echo '456';
     }
 }
 
